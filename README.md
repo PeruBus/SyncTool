@@ -21,3 +21,5 @@ threadBulk=20
 - threadBulk: the amount of threads to use, it might depend on your pc resources. 
 - DEFAULT_BATCH_SIZE: it represents the amount of registers to send into a 
 database in this case is SQL Server, but easily could be MySql. 
+
+

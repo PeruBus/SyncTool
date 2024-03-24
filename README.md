@@ -10,8 +10,8 @@ fileName=padron_reducido_ruc.zip
 finalPathString=decompressed/padron_reducido_ruc.txt
 DEFAULT_BATCH_SIZE=5000
 LINK_URL=jdbc:sqlserver://10.10.10.60:1433;databaseName=SISDOCU
-databaseUser=dba01
-passwordUser=$dbjma/
+databaseUser=user
+passwordUser=password
 trustServerCertificate=true
 rewriteBatchedStatements=true
 threadBulk=20
